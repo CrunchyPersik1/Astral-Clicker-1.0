@@ -1,2 +1,1 @@
-# Astral-Clicker-1.0
-hey man, go out plss
+# Welcome to your Dyad app
